@@ -37,7 +37,7 @@ First, we would like to share a message from the founder of Marmara Chain.
 ----------------------
 **Marmara Chain** is the smart chain made with *Komodo Technologies* migrating to blockchain a system that people have used for centuries. Marmara Credit Loops, MCL is the first DeFi that works for the real world items. 
 
-Marmara Chain team is currently operating one Notary Node in the EU region by the team members `Aklix#4684` and `ryilmaz#4060` with the leadership of Marmara Chain founder Prof. Dr. `B. Gültekin Çetiner#0626`.
+Marmara Chain team is currently operating Notary Nodes in both the EU and AR regions by the team members `Aklix#4684` and `ryilmaz#4060` with the leadership of Marmara Chain founder Prof. Dr. `B. Gültekin Çetiner#0626`.
 
 
 ## Vote information ##
