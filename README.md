@@ -74,7 +74,7 @@ Marmara Chain team is currently operating Notary Nodes in both the EU and AR reg
 * The experience and reputation will help us to establish an educational center for developing Komodo way of Smart Contracts known as Crypto Conditions at Marmara University, other universities and technoparks. While we establish this center, notarization is one of the key services for showing the affiliation with Komodo. Therefore, we feel that our community should be involved in this technology so that we can provide benefits of dPoW to other projects in region.
 * We strongly believe that Marmara community should and will be competent and strong to get involved in many potential projects in the near future by having talented people in Crypto Conditions, Smart Contracts by Komodo. 
 
-### Being elected as a notary node in Season 8 will strengthen our position to achieve those objectives and activities listed above. Therefore, we appreciate the support from the community in Komodo ecosystem.
+### Being elected as notary nodes in Season 8 will strengthen our position to achieve those objectives and activities listed above. Therefore, we appreciate the support from the community in Komodo ecosystem.
 
 # MARMARA CHAIN HISTORY
 Marmara Credit Loops (MCL) is the fruit of the famous Komodo Platform and Marmara Open Innovations Lab (MINS LAB) at Marmara University based on a real use case running almost half of GDP both in Turkey and India as well as the neighboring countries to Turkey.
